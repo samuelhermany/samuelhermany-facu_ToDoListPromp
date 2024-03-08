@@ -38,12 +38,6 @@ def listar_tarefas():
                   item['dataInicial']} - Data de Conclusão:{item['dataFinal']} - Urgência:{item['urgencia']}")
 
 
-def listar_tarefas1():
-    """ LISTAR TAREFAS"""
-    if not tarefas:
-        print("A lista de tarefas está vazia.")
-
-
 def excluir_Tarefa():
     """ ADICIONAR TAREFA"""
     listar_tarefas()

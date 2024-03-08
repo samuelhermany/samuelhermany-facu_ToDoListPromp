@@ -3,8 +3,19 @@
 ----- CAMPOS -----
 * ID da tarefa, descrição, data de criação, status, prazo final, urgência, entre outros atributos
 
------ QUANTIDADE DE TAREFAS -----
-* 10 tarefas
+----- QUANTIDADE DE TAREFAS (10 tarefas) -----
+* Criar um Roteiro
+* Verificar as regras de Vacinação
+* Separar documentos
+* Comprar passagem
+* Reservar o hotel
+* Alugar o carro antecipadamente
+* Fazer seguro viagem
+* Organizar a mala
+* Carregar celular
+* Fazer Check-In
+* Despachar as malas
+* Entrar no avião
 
 ----- TIPOS DE TAREFAS -----
 * Tarefas necessárias para uma vigem (ir aeroporto, fazer check in..)
