@@ -1,10 +1,10 @@
 # samuelhermany-facu_ToDoListPromp
 
 ----- CAMPOS -----
-ID da tarefa, descrição, data de criação, status, prazo final, urgência, entre outros atributos
+* ID da tarefa, descrição, data de criação, status, prazo final, urgência, entre outros atributos
 
 ----- QUANTIDADE DE TAREFAS -----
-10 tarefas
+* 10 tarefas
 
 ----- TIPOS DE TAREFAS -----
 * Tarefas necessárias para uma vigem (ir aeroporto, fazer check in..)
