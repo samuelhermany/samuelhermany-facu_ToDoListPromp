@@ -16,7 +16,7 @@ def adicionar_tarefa():
     status = 'Aberta'
     dataAtual = date.today()
     dataInicial = dataAtual.strftime("%d/%m/%Y")
-    prazoInput = input('Digite o p>razo da tarefa em dias: ')
+    prazoInput = input('Digite o prazo da tarefa em dias: ')
     prazoDias = int(prazoInput) if prazoInput.isdigit() else sys.exit(
         'Tipo de dado incorreto, a aplicação será finalizada!')
     dataFinal = (dataAtual + timedelta(days=prazoDias)).strftime("%d/%m/%Y")
